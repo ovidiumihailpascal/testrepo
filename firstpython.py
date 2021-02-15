@@ -1,2 +1,3 @@
 # Displyt the output 
-prin("new Phyton file")
+print("new Phyton file");
+print("Test Edit for Lab");
